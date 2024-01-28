@@ -1,0 +1,6 @@
+﻿  main.cpp
+  Generating code
+  Compiler switch has changed, fall back to full compilation.
+  All 1125 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ImGui DirectX 11 Kiero Hook.vcxproj -> D:\Desktop\idle slayer chear\ImGui-DirectX-11-Kiero-Hook-master\ImGui-DirectX-11-Kiero-Hook-master\x64\Release\ImGui DirectX 11 Kiero Hook.dll
